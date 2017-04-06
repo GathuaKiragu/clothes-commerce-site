@@ -1,0 +1,18 @@
+{
+  "products": [{
+    "title": "Veruca Salt",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Crane_estate_(5).jpg",
+    "description": "Estate",
+    "cost": "3000"
+  }, {
+    "title": "Veruca Salt",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Crane_estate_(5).jpg",
+    "description": "Estate",
+    "cost": "3000"
+  }, {
+    "title": "Veruca Salt",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Crane_estate_(5).jpg",
+    "description": "Estate",
+    "cost": "3000"
+  }]
+}
