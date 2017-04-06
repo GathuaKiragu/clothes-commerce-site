@@ -20,7 +20,6 @@ module.exports = function(environment) {
     apiKey: "AIzaSyB18AWupk6cLMhCrPEFcG8_RYXPxp2j7gA",
     authDomain: "ecommerce-clothes.firebaseapp.com",
     databaseURL: "https://ecommerce-clothes.firebaseio.com",
-    projectId: "ecommerce-clothes",
     storageBucket: "ecommerce-clothes.appspot.com",
   },
 
