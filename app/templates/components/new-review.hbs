@@ -3,10 +3,11 @@
   {{input class="form-control" value=author id="author"}}
 
   <label>Review</label>
-  {{textarea value=content id="content"}}
+  {{textarea class="form-control" value=content id="content"}}
 
   <label>Rating</label>
   {{input class="form-control" type="number" value=rating id="rating" placeholder="Enter a number between 1 and 5"}}
+  <br>
 
-  <button type="submit" {{action 'writeReview'}}>Button</button>
+  <button class="btn btn-primary" type="submit" {{action 'writeReview'}}>Button</button>
 </form>

@@ -3,3 +3,12 @@ h1{
   text-align: center;
   color: #6bdfe5;
 }
+img{
+  height: 300px;
+  width: 270px;
+}
+ h3{
+   font-family: 'Old Standard TT', serif;
+   color: #44098c;
+   size:40px;
+}

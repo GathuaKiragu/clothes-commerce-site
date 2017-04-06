@@ -1,9 +1,12 @@
 {{outlet}}
-<div class="container">
+<div class="well">
 
 {{#each model.products as |product|}}
   {{product-tile product=product addToTotal="addToTotal" writeReview="writeReview"}}
 {{/each}}
+</div>
 
+<h1><u>Items Added To Cart</u></h1>
+<div class="well">
 {{display-cart}}
 </div>
