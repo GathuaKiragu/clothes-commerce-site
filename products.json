@@ -1,18 +1,18 @@
 {
   "products": [{
-    "title": "Veruca Salt",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Crane_estate_(5).jpg",
-    "description": "Estate",
+    "title": "Wool-Jacket",
+    "description":"This is a beautiful wooolen jacket.Made in India",
+    "image": "http://store.dolcegabbana.com/dw/image/v2/AAGA_PRD/on/demandware.static/-/Sites-15/default/dwe588b8e4/images/zoom/G2JP6ZFU2KF_N0000_1.jpg?sw=804&sh=1200&sm=fit",
     "cost": "3000"
   }, {
-    "title": "Veruca Salt",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Crane_estate_(5).jpg",
-    "description": "Estate",
+    "title": "Satin blade tie",
+    "description":"This is a beautiful Satin blade tie.Made in India",
+    "image": "http://store.dolcegabbana.com/dw/image/v2/AAGA_PRD/on/demandware.static/-/Sites-15/default/dwc2f5030a/images/zoom/GH589AFU6SR_N0000_1.jpg?sw=804&sh=1200&sm=fit",
     "cost": "3000"
   }, {
-    "title": "Veruca Salt",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Crane_estate_(5).jpg",
-    "description": "Estate",
+    "title": "Tribly Cotton Hat",
+    "description":"This is a beautiful wooolen jacketTribly Cotton Hat.Made in Kenya",
+    "image": "http://store.dolcegabbana.com/dw/image/v2/AAGA_PRD/on/demandware.static/-/Sites-15/default/dw68117c26/images/zoom/GT149EG0U05_N0000_1.jpg?sw=804&sh=1200&sm=fit",
     "cost": "3000"
   }]
 }
